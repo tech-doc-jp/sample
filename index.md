@@ -2,4 +2,4 @@
 
 this is index.md
 
-[readme](./readme.md)
+[readme](./README.md)
